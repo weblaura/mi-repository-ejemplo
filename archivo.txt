@@ -1,1 +1,2 @@
 Este es un archivo de ejemplo para el curso de Github.
+Esta es una segunda linea en el brunch nueva-funcionalidad.
